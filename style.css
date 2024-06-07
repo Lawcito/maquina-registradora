@@ -1,0 +1,40 @@
+body {
+  background-color: #3c2f2f;
+  color: #fff4e6;
+  padding: 0;
+  margin: 0;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.contenedorMadre {
+  color: #4b3832;
+  background-color: #be9b7b;
+  display: inline-block;
+  padding: 0 200px;
+}
+
+.contentTitle {
+  text-align: center;
+  background-color: #854442;
+  padding: 1px;
+}
+
+#titleMonto {
+  text-align: center;
+}
+
+#montoActual {
+  text-align: center;
+}
+
+.contentProduct {
+  text-align: center;
+}
+
+#compraRealizada {
+  text-align: center;
+}
+
+#dineroInicial {
+  text-align: center;
+}
